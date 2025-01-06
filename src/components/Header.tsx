@@ -1,7 +1,6 @@
 "use client";
 
-import Link from "next/link";
-import Image from "next/image"; // 追加
+import Link from "next/link"; // 変更
 
 export default function Header() {
   return (
@@ -9,7 +8,7 @@ export default function Header() {
       <div className="max-w-screen-xl mx-auto flex justify-between items-center p-4">
         <div className="flex items-center space-x-3">
           <Link href="/">
-            <Image
+            <img
               src="/images/logo.png"
               alt="Server Logo"
               className="h-10"
