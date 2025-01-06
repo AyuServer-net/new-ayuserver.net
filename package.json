@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-  },
+    },
   "dependencies": {
     "bootstrap": "^5.3.3",
     "mcstatus": "^1.0.1",
