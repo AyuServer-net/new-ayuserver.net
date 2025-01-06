@@ -1,6 +1,6 @@
 "use client";
 
-import Link from "next/link"; // 変更
+import Link from "next/link";
 
 export default function Header() {
   return (
