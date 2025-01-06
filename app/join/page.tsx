@@ -2,7 +2,7 @@
 
 import Header from "../../src/components/Header";
 import Footer from "../../src/components/Footer";
-import { FaServer, FaKey, FaGamepad } from "react-icons/fa";
+import { FaServer, FaGamepad } from "react-icons/fa";
 
 export default function JoinPage() {
   return (
